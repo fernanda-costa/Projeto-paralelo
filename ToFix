@@ -1,0 +1,7 @@
+- Aumentar espaçamentos dos itens da navbar (V);
+- Ajustar cores Page1 () ;
+- Ajustar Navbar, burguer desaparece antes do esperado quando expande pra desktop ();
+- Ajustar navbar, um item está fora do body, usar z-index, position:fixed, background:transparent (V);
+- Alterar as fontes e espaçamento da página 2 e 5.
+- Melhoras os icones na página 5;
+- Verificar qual margem está causando um scroll desnecessário;
